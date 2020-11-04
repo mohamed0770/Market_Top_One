@@ -1,0 +1,58 @@
+body
+{
+    margin: -10px;
+    padding: 0;
+    background: #C1C1C1;
+}
+.header
+{
+    background: ;
+    color: black;
+    border-bottom: 6px solid #303030;
+    margin:5px;
+    padding-top: 5px;
+    height: auto;
+    font-size: 30px;
+   
+}
+.one
+{
+   
+    font-size: 10px;
+    
+}
+.navigation
+{
+    margin :10px;
+    padding-top: 20px;
+    position:fixed;
+    right:50%;
+    top: 0%;
+    
+}
+
+
+.content
+{
+    background: #C1C1C1;
+    margin: 5px;
+    padding: 10px;
+    color:#FFFF;
+}
+.float
+{
+    display: inline-block;
+    width:450px;
+    height: 400px;
+    overflow: auto;
+    border: 1px solid #000000;
+    margin: 5px;
+    padding: 3px;
+    float: left;
+    color:black
+}
+.two
+{
+    width: 450px;
+    height: 300px;
+}
